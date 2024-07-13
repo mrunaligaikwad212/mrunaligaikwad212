@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **mrunaligaikwad212/mrunaligaikwad212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Mrunali Gaikwad</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A Software developer from India with driven by a passion for innovation and armed with a solid foundation in technology, I'm on a mission to create impactful software solutions. I believe in the power of code to transform ideas into reality and continuously strive to push the boundaries of what's possible.
+</h3>
 <img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/coding-skills-loading-dk68v8z0hevjpuiv.webp">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrunaligaikwad212&label=Profile%20views&color=0e75b6&style=flat" alt="mrunaligaikwad212" /> </p>
