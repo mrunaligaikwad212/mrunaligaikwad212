@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Mrunali Gaikwad</h1>
-<h3 align="center">A Software developer from India with driven by a passion for innovation and armed with a solid foundation in technology, I'm on a mission to create impactful software solutions. I believe in the power of code to transform ideas into reality and continuously strive to push the boundaries of what's possible.
+<h3 align="center">I believe in the power of code to transform ideas into reality and continuously strive to push the boundaries of what's possible.
 </h3>
 <img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/coding-skills-loading-dk68v8z0hevjpuiv.webp">
 
